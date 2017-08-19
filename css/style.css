@@ -9,7 +9,7 @@ body {
     max-width: 1100px;
     margin:0 auto;
 }
-
+/*POPRAWNE WYŚWIETLANIE ELEMENTÓW PŁYWAJĄCYCH*/
 .floatfix::after {
     content:'';
     display: block;
