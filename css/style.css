@@ -29,3 +29,12 @@ header nav {
     float: right;
     width: 65%;
 }
+
+header nav ul {
+    display: table;
+    width: 100%;
+}
+
+header nav ul li {
+    display: table-cell;
+}
