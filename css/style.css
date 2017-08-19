@@ -10,6 +10,12 @@ body {
     margin:0 auto;
 }
 
+.floatfix::after {
+    content:'';
+    display: block;
+    clear: both;
+}
+
 h1 {
     float:left;
     width: 35%;
