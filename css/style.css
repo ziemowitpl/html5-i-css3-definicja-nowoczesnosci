@@ -24,3 +24,8 @@ header h1 a {
     text-indent: -999em;
     background: url('../images/logo.png') top left no-repeat;
 }
+
+header nav {
+    float: right;
+    width: 65%;
+}
