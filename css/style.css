@@ -1,3 +1,9 @@
+body {
+    background-color: #fff;
+    font-family: 'Roboto', sans-serif;
+    font-size: 62.5%;
+}
+
 .contener {
     width: 80%;
     max-width: 1100px;
