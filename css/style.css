@@ -38,3 +38,14 @@ header nav ul {
 header nav ul li {
     display: table-cell;
 }
+
+header nav ul li a {
+    display: block;
+    height: 70px;
+    line-height: 70px;
+    font-size: 1.5em;
+    color: #7cb029;
+    text-transform: uppercase;
+    text-align: center;
+    text-decoration: none;
+}
