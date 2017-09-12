@@ -60,3 +60,18 @@ header nav ul li a:hover {
     background-color: #7cb029;
     color: #fff;
 }
+
+
+
+/*--------- MAX-WIDTH 1024 --------- */
+@media screen and (max-width: 1024px) {
+
+}
+/*--------- MAX-WIDTH 768 --------- */
+@media screen and (max-width: 768px) {
+
+}
+/*--------- MAX-WIDTH 480 --------- */
+@media screen and (max-width: 480px) {
+
+}
