@@ -99,6 +99,9 @@ header nav ul li a:hover {
         top: 20px;
         right: 20px;
     }
+    header nav ul {
+        display:none;
+    }
 }
 /*--------- MAX-WIDTH 480 --------- */
 @media screen and (max-width: 480px) {
