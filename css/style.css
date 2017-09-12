@@ -59,6 +59,10 @@ header nav ul li a {
 header nav ul li a:hover {
     background-color: #7cb029;
     color: #fff;
+    /*PRZYKŁAD TRANSFORM
+    transform:perspective(300px) rotateX(45deg);*/
+    transition: 0.4s;
+
 }
 
 
