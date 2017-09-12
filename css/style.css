@@ -88,4 +88,9 @@ header nav ul li a:hover {
     .contener {
         width:100%;
     }
+
+    header nav ul li {
+        display: block;
+        width: 100%;
+    }
 }
