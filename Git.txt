@@ -1,0 +1,32 @@
+Obs³uga komend tekstowych GitBash!!!
+===
+cd /d/nazwa_folderu
+przejscie na dysk d i zalozenie folderu
+---
+git init
+nowe repozytorium
+---
+git config --global user.name "ziemowitpl"
+dodaje usera do systemu globalnie na PC
+git config --global user.email "moj@mail.pl"
+dodaje adres email usera do systemu
+---
+git status
+wyswietla status plikow
+---
+git add .  
+dodaje wszystkie pliki
+---
+git commit -m "Wiadomosc"
+dodanie do repozytorium
+---
+git log
+wyswietlenie zmian "commit"
+---
+git clone <url>.git
+klonowanie repozytorium z GitHub
+---
+git checkout -b nazwa_glezi
+galaz
+---
+git push origin nazwa_galezi(lub bez nazwy master)
