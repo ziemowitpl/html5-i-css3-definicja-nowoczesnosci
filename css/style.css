@@ -64,6 +64,17 @@ header nav ul li a:hover {
     transition: 0.4s;
 
 }
+/*------------MENU SWITCH---------*/
+.switch {
+    display: none;
+    background-color: #7cb029;
+    color: #fff;
+    padding: 10px 15px;
+    float: right;
+    font-size: 1.4em;
+    text-decoration: none;
+
+}
 
 
 
@@ -81,6 +92,12 @@ header nav ul li a:hover {
 
     header nav {
         width: 100%;
+    }
+    .switch {
+        display: block;
+        position: absolute;
+        top: 20px;
+        right: 20px;
     }
 }
 /*--------- MAX-WIDTH 480 --------- */
