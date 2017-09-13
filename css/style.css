@@ -176,4 +176,13 @@ header nav ul li a:hover {
     header nav ul.visible {
         display: block;
     }
+    .slogan-bg {
+        height: 200px;
+    }
+    .slogan {
+        padding-top: 60px;
+        font-size: 2em;
+        line-height: 1.7em;
+    }
+
 }
