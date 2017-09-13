@@ -114,6 +114,14 @@ header nav ul li a:hover {
     background: rgba(124, 176, 41, 0.8);
     display: inline;
 }
+/*-------------------------OFERTA--------------------*/
+section.contener h1 {
+    color: #7cb029;
+    font-size: 2em;
+    text-transform: uppercase;
+    margin-top: 10px;
+
+}
 
 
 /*--------- MAX-WIDTH 1024 --------- */
