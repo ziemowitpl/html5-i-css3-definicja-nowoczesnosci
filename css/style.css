@@ -121,6 +121,12 @@ header nav ul li a:hover {
     .contener {
         width:90%;
     }
+    .slogan-bg {
+        height: 400px;
+    }
+    .slogan {
+        padding-top: 150px;
+    }
 }
 /*--------- MAX-WIDTH 768 --------- */
 @media screen and (max-width: 768px) {
