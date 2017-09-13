@@ -137,7 +137,18 @@ section.contener h1 {
     margin: 2%;
     border: 1px solid #ccc;
 }
-
+.box h2 {
+    padding-left: 5%;
+    padding-top: 5%;
+    font-size: 2.2em;
+    color: #000;
+}
+.box p {
+    padding: 5%;
+    font-size: 1.5em;
+    line-height: 1.4em;
+    color: #7d7d7d;
+}
 
 /*--------- MAX-WIDTH 1024 --------- */
 @media screen and (max-width: 1024px) {
