@@ -149,6 +149,16 @@ section.contener h1 {
     line-height: 1.4em;
     color: #7d7d7d;
 }
+span.readmore a {
+    display: block;
+    margin: 5%;
+    border: 1px solid #ccc;
+    text-align: center;
+    padding: 2%;
+    font-size: 1.4em;
+    color: #7d7d7d;
+    text-decoration: none;
+}
 
 /*--------- MAX-WIDTH 1024 --------- */
 @media screen and (max-width: 1024px) {
