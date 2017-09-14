@@ -208,6 +208,13 @@ span.readmore a:hover {
         width: 96%;
         position: relative;
     }
+    .desc {
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        padding: 5px;
+        background: rgba(124, 176, 41, 0.8);
+    }
 }
 /*--------- MAX-WIDTH 480 --------- */
 @media screen and (max-width: 480px) {
