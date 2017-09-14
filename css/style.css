@@ -224,6 +224,15 @@ span.readmore a:hover {
         color: #fff;
         padding: 3%;
     }
+    span.readmore a {
+        display: inline;
+        margin: 0;
+        border: 0;
+        float: right;
+        padding: 2% 5%;
+        color: #000;
+        background: rgba(255, 255, 255, 0.8);
+    }
 }
 /*--------- MAX-WIDTH 480 --------- */
 @media screen and (max-width: 480px) {
