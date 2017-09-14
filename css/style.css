@@ -159,6 +159,10 @@ span.readmore a {
     color: #7d7d7d;
     text-decoration: none;
 }
+span.readmore a:hover {
+    background-color: #7cb029;
+    color: #fff;
+}
 
 /*--------- MAX-WIDTH 1024 --------- */
 @media screen and (max-width: 1024px) {
@@ -199,6 +203,10 @@ span.readmore a {
     }
     .slogan h1, .slogan h2 {
         padding: 5px 0px;
+    }
+    .box {
+        width: 96%;
+        position: relative;
     }
 }
 /*--------- MAX-WIDTH 480 --------- */
