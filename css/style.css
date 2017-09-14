@@ -215,6 +215,15 @@ span.readmore a:hover {
         padding: 5px;
         background: rgba(124, 176, 41, 0.8);
     }
+    .box h2 {
+        color: #fff;
+        padding-left: 3%;
+        padding-top: 3%;
+    }
+    .box p {
+        color: #fff;
+        padding: 3%;
+    }
 }
 /*--------- MAX-WIDTH 480 --------- */
 @media screen and (max-width: 480px) {
