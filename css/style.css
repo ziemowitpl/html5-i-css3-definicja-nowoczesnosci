@@ -233,6 +233,10 @@ span.readmore a:hover {
         color: #000;
         background: rgba(255, 255, 255, 0.8);
     }
+    span.readmore a:hover {
+        background-color: #fff;
+        color: #000;
+    }
 }
 /*--------- MAX-WIDTH 480 --------- */
 @media screen and (max-width: 480px) {
