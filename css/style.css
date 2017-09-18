@@ -164,6 +164,16 @@ span.readmore a:hover {
     color: #fff;
 }
 
+.left {
+    width: 46%;
+    float: left;
+    margin: 2%;
+}
+.right {
+    width: 46%;
+    float: right;
+    margin: 2%;
+}
 /*--------- MAX-WIDTH 1024 --------- */
 @media screen and (max-width: 1024px) {
     .contener {
