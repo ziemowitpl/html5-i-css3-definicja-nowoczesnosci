@@ -269,5 +269,11 @@ span.readmore a:hover {
         position: relative;
         padding: 0;
     }
+    .box h2 {
+        padding: 4% 2% 0 2%;
+    }
+    .box p {
+        padding: 2%;
+    }
 
 }
