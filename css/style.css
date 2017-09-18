@@ -185,7 +185,10 @@ span.readmore a:hover {
     font-size: 1.4em;
     line-height: 1.4em;
     color: #7d7d7d;
-    margin: 2% 0;  
+    margin: 2% 0;
+}
+.right img {
+    max-width: 30%;
 }
 /*--------- MAX-WIDTH 1024 --------- */
 @media screen and (max-width: 1024px) {
