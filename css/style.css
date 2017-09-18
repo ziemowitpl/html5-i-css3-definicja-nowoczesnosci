@@ -275,5 +275,11 @@ span.readmore a:hover {
     .box p {
         padding: 2%;
     }
+    span.readmore a {
+        display: block;
+        float: none;
+        padding: 3% 0%;
+        margin: 0;
+    }
 
 }
