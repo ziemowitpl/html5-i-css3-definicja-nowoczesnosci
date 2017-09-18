@@ -265,5 +265,9 @@ span.readmore a:hover {
         font-size: 2em;
         line-height: 1.7em;
     }
+    .desc {
+        position: relative;
+        padding: 0;
+    }
 
 }
