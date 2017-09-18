@@ -276,6 +276,9 @@ span.readmore a:hover {
         background-color: #fff;
         color: #000;
     }
+    .no-phone {
+        display: none;
+    }
 }
 /*--------- MAX-WIDTH 480 --------- */
 @media screen and (max-width: 480px) {
