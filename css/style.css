@@ -212,7 +212,7 @@ span.readmore a:hover {
     float: left;
     width: 25%;
     position: relative;
-    overflow: hidden;
+    /*overflow: hidden;*/
 }
 
 .realizations-box h2 {
