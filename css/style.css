@@ -21,7 +21,7 @@ body {
     clear: both;
 }
 
-h1 {
+header h1 {
     float:left;
     width: 35%;
     min-width: 200px;
@@ -235,6 +235,14 @@ span.readmore a:hover {
 #realizations-contener {
     border-top: 4px solid #7cb029;
     border-bottom:  4px solid #7cb029;
+}
+.realizations h1 {
+    color: #7cb029;
+    font-size: 2em;
+    text-transform: uppercase;
+    padding: 1% 0;
+    text-align: center;
+    float: none;
 }
 
 /*--------- MAX-WIDTH 1024 --------- */
