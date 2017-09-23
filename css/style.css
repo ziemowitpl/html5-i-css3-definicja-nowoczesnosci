@@ -212,7 +212,7 @@ span.readmore a:hover {
     float: left;
     width: 25%;
     position: relative;
-    /*overflow: hidden;*/
+    overflow: hidden;
 }
 
 .realizations-box h2 {
@@ -227,6 +227,9 @@ span.readmore a:hover {
     text-align: center;
     padding-top: 5%;
     transform: translateY(100%);
+}
+.realizations-box:hover h2 {
+    transform: translateY(0);
 }
 
 /*--------- MAX-WIDTH 1024 --------- */
