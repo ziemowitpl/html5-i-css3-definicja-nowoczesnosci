@@ -84,6 +84,12 @@ header nav ul li a:hover {
     position: relative;
     overflow: hidden;
 }
+
+.realizations-box h2 {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;    
+}
 /*------------MENU SWITCH---------*/
 .switch {
     display: none;
