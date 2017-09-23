@@ -81,6 +81,8 @@ header nav ul li a:hover {
 .realizations-box {
     float: left;
     width: 25%;
+    position: relative;
+    overflow: hidden;
 }
 /*------------MENU SWITCH---------*/
 .switch {
