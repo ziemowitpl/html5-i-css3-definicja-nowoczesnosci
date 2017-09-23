@@ -227,6 +227,7 @@ span.readmore a:hover {
     text-align: center;
     padding-top: 5%;
     transform: translateY(100%);
+    transition: all 350ms;
 }
 .realizations-box:hover h2 {
     transform: translateY(0);
