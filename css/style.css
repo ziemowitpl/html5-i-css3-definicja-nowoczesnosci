@@ -372,6 +372,8 @@ span.readmore a:hover {
         padding: 3% 0%;
         margin: 0;
     }
-    
+    .realizations-box {
+        width: 100%;
+    }
 
 }
