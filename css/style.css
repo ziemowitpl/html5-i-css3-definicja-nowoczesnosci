@@ -78,6 +78,10 @@ header nav ul li a:hover {
 .realizations h1 {
     float: none;
 }
+.realizations-box {
+    float: left;
+    width: 25%;
+}
 /*------------MENU SWITCH---------*/
 .switch {
     display: none;
