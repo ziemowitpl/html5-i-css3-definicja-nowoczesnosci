@@ -75,28 +75,6 @@ header nav ul li a:hover {
     transition: 0.4s;
 
 }
-.realizations h1 {
-    float: none;
-}
-.realizations-box {
-    float: left;
-    width: 25%;
-    position: relative;
-    overflow: hidden;
-}
-
-.realizations-box h2 {
-    position: absolute;
-    bottom: 0px;
-    left: 0px;
-    color: #fff;
-    font-size: 2em;
-    background: rgba(0, 0, 0, 0.4);
-    width: 100%;
-    height: 30%;
-    text-align: center;
-    padding-top: 5%;
-}
 
 /*------------MENU SWITCH---------*/
 .switch {
@@ -226,6 +204,31 @@ span.readmore a:hover {
 .right h2 a:hover {
     text-decoration: underline;
 }
+/*----------------NASZE REALIZACJE------------*/
+.realizations h1 {
+    float: none;
+}
+.realizations-box {
+    float: left;
+    width: 25%;
+    position: relative;
+    overflow: hidden;
+}
+
+.realizations-box h2 {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    color: #fff;
+    font-size: 2em;
+    background: rgba(0, 0, 0, 0.4);
+    width: 100%;
+    height: 30%;
+    text-align: center;
+    padding-top: 5%;
+    transform: translateY(100%);
+}
+
 /*--------- MAX-WIDTH 1024 --------- */
 @media screen and (max-width: 1024px) {
     .contener {
