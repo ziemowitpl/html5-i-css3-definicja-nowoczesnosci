@@ -324,6 +324,10 @@ span.readmore a:hover {
     .left {
         width: 96%;
     }
+    .realizations-box {
+        width: 50%;
+    }
+
 }
 /*--------- MAX-WIDTH 480 --------- */
 @media screen and (max-width: 480px) {
@@ -368,5 +372,6 @@ span.readmore a:hover {
         padding: 3% 0%;
         margin: 0;
     }
+    
 
 }
