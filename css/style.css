@@ -75,6 +75,9 @@ header nav ul li a:hover {
     transition: 0.4s;
 
 }
+.realizations h1 {
+    float: none;
+}
 /*------------MENU SWITCH---------*/
 .switch {
     display: none;
