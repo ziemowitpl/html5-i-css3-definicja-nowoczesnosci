@@ -269,7 +269,7 @@ ul.social li {
     margin-left: 10px;
 }
 
-/*-----CSS Sprite dla Footer----*/
+/*-----CSS Sprite dla Footer oraz przejście/animacja----*/
 ul.social li a {
     display: block;
     height: 32px;
@@ -277,6 +277,7 @@ ul.social li a {
     text-indent: 100%;
     overflow: hidden;
     background-image: url('../images/social-icons.png');
+    transition: all 350ms;
 }
 .facebook a {
     background-position: 0 0;
@@ -389,6 +390,16 @@ ul.social {
         transform: translateY(0);
     }
 
+}
+/*----------MAX-WIDTH 510px---------*/
+@media screen and (max-width:510px) {
+    .footer-left {
+        width: 96%;
+        text-align: center;
+    }
+    .footer-right {
+        display: none;
+    }
 }
 /*--------- MAX-WIDTH 480 --------- */
 @media screen and (max-width: 480px) {
