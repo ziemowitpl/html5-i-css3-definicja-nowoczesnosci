@@ -434,6 +434,9 @@ ul.social {
     .title {
         text-align: center;
     }
+    .content {
+        width: 100%;
+    }
 
 }
 /*----------MAX-WIDTH 510px---------*/
@@ -491,6 +494,10 @@ ul.social {
     }
     .realizations-box {
         width: 100%;
+    }
+    /*oferta*/
+    .content {
+        padding: 0 4%;
     }
 
 }
