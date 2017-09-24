@@ -109,7 +109,6 @@ header nav ul li a:hover {
 }
 
 .slogan h1 {
-    float: none;
     color: #393b38;
     padding: 5px 15px;
     background: rgba(255, 255, 255, 0.8);
@@ -130,7 +129,6 @@ section.contener h1 {
 	text-transform: uppercase;
     margin-top: 10px;
     margin-left: 2%;
-    float: none;
 }
 .box{
 	width: 29.333%;
@@ -176,7 +174,6 @@ span.readmore a:hover {
     margin: 2%;
 }
 .left h1, .right h1 {
-    float: none;
     color: #7cb029;
     font-size: 2em;
     text-transform: uppercase;
@@ -205,9 +202,6 @@ span.readmore a:hover {
     text-decoration: underline;
 }
 /*----------------NASZE REALIZACJE------------*/
-.realizations h1 {
-    float: none;
-}
 .realizations-box {
     float: left;
     width: 25%;
@@ -242,7 +236,6 @@ span.readmore a:hover {
     text-transform: uppercase;
     padding: 1% 0;
     text-align: center;
-    float: none;
 }
 
 /*-----------------Stopka - Footer----------------*/
@@ -501,3 +494,4 @@ ul.social {
     }
 
 }
+/*THE END*/
