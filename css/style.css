@@ -287,9 +287,22 @@ ul.social li a {
 .twitter a {
     background-position: 0 -128px;
 }
+/*-----*/
 ul.social {
     float: right;
 }
+/*-----CSS Sprite:hover dla Footer----*/
+.facebook a:hover {
+    background-position: 0 -32px;
+}
+.gplus a:hover {
+    background-position: 0 -96px;
+}
+.twitter a:hover {
+    background-position: 0 -160px;
+}
+/*-------*/
+
 /*--------- MAX-WIDTH 1024 --------- */
 @media screen and (max-width: 1024px) {
     .contener {
