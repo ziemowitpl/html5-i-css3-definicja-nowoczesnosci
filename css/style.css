@@ -327,6 +327,9 @@ span.readmore a:hover {
     .realizations-box {
         width: 50%;
     }
+    .realizations-box h2 {
+        transform: translateY(0);
+    }
 
 }
 /*--------- MAX-WIDTH 480 --------- */
