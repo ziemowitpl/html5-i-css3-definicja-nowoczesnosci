@@ -252,6 +252,7 @@ footer {
     background: url('../images/wild_oliva.png') top left repeat;
     color: #fff;
     font-size: 1.2em;
+    line-height: 32px;
 }
 .footer-left {
     width: 46%;
