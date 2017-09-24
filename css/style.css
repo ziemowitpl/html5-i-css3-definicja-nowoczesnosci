@@ -322,6 +322,7 @@ ul.social {
     padding: 5px 15px;
     background: rgba(255,255,255, 0.8);
     line-height: 70px;
+    text-transform: uppercase;
 }
 
 /*--------- MAX-WIDTH 1024 --------- */
@@ -409,6 +410,10 @@ ul.social {
     }
     .realizations-box h2 {
         transform: translateY(0);
+    }
+    /*OFERTA*/
+    .title {
+        text-align: center;
     }
 
 }
