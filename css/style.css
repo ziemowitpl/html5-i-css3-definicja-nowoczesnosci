@@ -245,6 +245,15 @@ span.readmore a:hover {
     float: none;
 }
 
+/*-----------------Stopka - Footer----------------*/
+footer {
+    margin-top: 10px;
+    border-top: 7px solid #2f2f2f;
+    background: url('../images/wild_oliva.png') top left repeat;
+    color: #fff;
+    font-size: 1.2em;
+}
+
 /*--------- MAX-WIDTH 1024 --------- */
 @media screen and (max-width: 1024px) {
     .contener {
