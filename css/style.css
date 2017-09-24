@@ -182,7 +182,7 @@ span.readmore a:hover {
     text-transform: uppercase;
     margin-bottom: 4%;
 }
-.left p, .right p {
+.left p, .right p, .content p {
     font-size: 1.4em;
     line-height: 1.4em;
     color: #7d7d7d;
