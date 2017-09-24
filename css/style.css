@@ -339,6 +339,10 @@ ul.social {
     text-transform: uppercase;
     margin: 15px 0;
 }
+.sidebar img {
+    border: 5px solid #7cb029;
+    margin-bottom: 15px;
+}
 
 /*--------- MAX-WIDTH 1024 --------- */
 @media screen and (max-width: 1024px) {
