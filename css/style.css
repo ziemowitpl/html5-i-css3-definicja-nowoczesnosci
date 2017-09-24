@@ -253,7 +253,16 @@ footer {
     color: #fff;
     font-size: 1.2em;
 }
-
+.footer-left {
+    width: 46%;
+    margin: 2%;
+    float: left;
+}
+.footer-right {
+    width: 46%;
+    margin: 2%;
+    float: right;
+}
 /*--------- MAX-WIDTH 1024 --------- */
 @media screen and (max-width: 1024px) {
     .contener {
