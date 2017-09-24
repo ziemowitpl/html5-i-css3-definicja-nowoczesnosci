@@ -331,6 +331,7 @@ ul.social {
 .sidebar {
     width: 35%;
     float: right;
+    padding-left: 4%;
 }
 .content h1, .sidebar h1 {
     color: #7cb029;
