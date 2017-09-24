@@ -267,6 +267,17 @@ ul.social li {
     float: left;
     margin-left: 10px;
 }
+
+/*-----CSS Sprite dla Footer----*/
+ul.social li a {
+    display: block;
+    height: 32px;
+    width: 32px;
+    text-indent: 100%;
+    overflow: hidden;
+    background-image: url('../images/social-icons.png');
+}
+
 /*--------- MAX-WIDTH 1024 --------- */
 @media screen and (max-width: 1024px) {
     .contener {
