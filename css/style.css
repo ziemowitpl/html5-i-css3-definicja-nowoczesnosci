@@ -277,7 +277,15 @@ ul.social li a {
     overflow: hidden;
     background-image: url('../images/social-icons.png');
 }
-
+.facebook a {
+    background-position: 0 0;
+}
+.gplus a {
+    background-position: 0 -64px;
+}
+.twitter a {
+    background-position: 0 -128px;
+}
 /*--------- MAX-WIDTH 1024 --------- */
 @media screen and (max-width: 1024px) {
     .contener {
