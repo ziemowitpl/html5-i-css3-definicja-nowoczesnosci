@@ -287,6 +287,9 @@ ul.social li a {
 .twitter a {
     background-position: 0 -128px;
 }
+ul.social {
+    float: right;
+}
 /*--------- MAX-WIDTH 1024 --------- */
 @media screen and (max-width: 1024px) {
     .contener {
