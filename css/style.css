@@ -314,6 +314,16 @@ ul.social {
     border-bottom: 4px solid #7cb029;
 }
 
+.title h1 {
+    font-family: 'Impact', sans-serif;
+    font-size: 3em;
+    color: #393b38;
+    display: inline;
+    padding: 5px 15px;
+    background: rgba(255,255,255, 0.8);
+    line-height: 70px;
+}
+
 /*--------- MAX-WIDTH 1024 --------- */
 @media screen and (max-width: 1024px) {
     .contener {
