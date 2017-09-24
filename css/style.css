@@ -324,6 +324,14 @@ ul.social {
     line-height: 70px;
     text-transform: uppercase;
 }
+.content {
+    width: 65%;
+    float: left;
+}
+.sidebar {
+    width: 35%;
+    float: right;
+}
 
 /*--------- MAX-WIDTH 1024 --------- */
 @media screen and (max-width: 1024px) {
